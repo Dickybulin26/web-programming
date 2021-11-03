@@ -5,4 +5,6 @@ rencana saya
   - belajar c#
   - belajar c++
   - belajar css
-  - belajar membuat website
+  - belajar css framework
+  - belajar php framework
+
