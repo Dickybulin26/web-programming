@@ -1,0 +1,4 @@
+rencana saya 
+  - belajar javascript
+  - belajar php
+  - belajar phyton
